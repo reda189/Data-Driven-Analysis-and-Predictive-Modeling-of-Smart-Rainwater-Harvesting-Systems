@@ -10,6 +10,11 @@ The project includes:
 - A presentation summarizing the methodology, findings, and conclusions.
 
 ---
+## Research Question
+
+How accurately can machine learning models predict harvested rainwater using rainfall, roof area, and storage tank capacity?
+
+This question is important because accurate prediction can support better storage planning, more efficient system design, and improved sustainable water resource management.
 
 ## Research Objectives
 
